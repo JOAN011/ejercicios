@@ -1,0 +1,10 @@
+Command line:
+   TB_Multiplicador_4_Bits_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  63867
+
+Wed Feb 16 05:33:00 2022
+
+
+ Elaboration Time: 0.0625 sec

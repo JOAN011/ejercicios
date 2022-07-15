@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="TF_U10.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Full_Adder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Full_Adder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Full_Adder.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Half_Adder.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Half_Adder.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Half_Adder.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Listado_10_5.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Listado_10_5.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Listado_10_5.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Listado_10_6.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Listado_10_6.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Listado_10_6.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Listado_10_6_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Listado_10_7.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Listado_10_7.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Listado_10_7.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Listado_10_7_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Modulo1.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Modulo1.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Modulo1.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Modulo2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Modulo2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Modulo2.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Multiplicador_2_bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Multiplicador_2_bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Multiplicador_2_bits.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Multiplicador_4_bits.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Multiplicador_4_bits.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Multiplicador_4_bits.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Multiplicador_4_bits.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Multiplicador_4_bits.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Multiplicador_4_bits.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Multiplicador_4_bits.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Multiplicador_4_bits.xst"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Multiplicador_4_bits_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TB_L_10_6_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TB_L_10_7_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TB_Multiplicador_2_Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_Multiplicador_4_Bits_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="TB_Multiplicador_4_Bits_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="TB_Multiplicador_4_Bits_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_Multiplicador_4_Bits_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="netgen"/>
+    <file xil_pn:fileType="FILE_NETGEN_REPORT" xil_pn:name="netgen/synthesis/Multiplicador_4_bits_synthesis.nlf"/>
+    <file xil_pn:fileType="FILE_VERILOG" xil_pn:name="netgen/synthesis/Multiplicador_4_bits_synthesis.v"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1644972781" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1644972781">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985974" xil_pn:in_ck="6762798381516691189" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1644985973">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Full_Adder.vhd"/>
+      <outfile xil_pn:name="Half_Adder.vhd"/>
+      <outfile xil_pn:name="Listado_10_5.vhd"/>
+      <outfile xil_pn:name="Listado_10_6.vhd"/>
+      <outfile xil_pn:name="Listado_10_7.vhd"/>
+      <outfile xil_pn:name="Modulo1.vhd"/>
+      <outfile xil_pn:name="Modulo2.vhd"/>
+      <outfile xil_pn:name="Multiplicador_2_bits.vhd"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.vhd"/>
+      <outfile xil_pn:name="TB_L_10_6.vhd"/>
+      <outfile xil_pn:name="TB_L_10_7.vhd"/>
+      <outfile xil_pn:name="TB_Multiplicador_2_Bits.vhd"/>
+      <outfile xil_pn:name="TB_Multiplicador_4_Bits.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985937" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="6652674248892206770" xil_pn:start_ts="1644985937">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985937" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-7852895609744460848" xil_pn:start_ts="1644985937">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985761" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-8939916345286211440" xil_pn:start_ts="1644985761">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985974" xil_pn:in_ck="6762798381516691189" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1644985974">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Full_Adder.vhd"/>
+      <outfile xil_pn:name="Half_Adder.vhd"/>
+      <outfile xil_pn:name="Listado_10_5.vhd"/>
+      <outfile xil_pn:name="Listado_10_6.vhd"/>
+      <outfile xil_pn:name="Listado_10_7.vhd"/>
+      <outfile xil_pn:name="Modulo1.vhd"/>
+      <outfile xil_pn:name="Modulo2.vhd"/>
+      <outfile xil_pn:name="Multiplicador_2_bits.vhd"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.vhd"/>
+      <outfile xil_pn:name="TB_L_10_6.vhd"/>
+      <outfile xil_pn:name="TB_L_10_7.vhd"/>
+      <outfile xil_pn:name="TB_Multiplicador_2_Bits.vhd"/>
+      <outfile xil_pn:name="TB_Multiplicador_4_Bits.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985978" xil_pn:in_ck="6762798381516691189" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-1625143507878911606" xil_pn:start_ts="1644985974">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="TB_Multiplicador_4_Bits_beh.prj"/>
+      <outfile xil_pn:name="TB_Multiplicador_4_Bits_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985979" xil_pn:in_ck="-4103401935988261964" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3965787092637118739" xil_pn:start_ts="1644985978">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="TB_Multiplicador_4_Bits_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985694" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1644985694">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985694" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-9165340983781423544" xil_pn:start_ts="1644985694">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985694" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-8939916345286211440" xil_pn:start_ts="1644985694">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985694" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1644985694">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985694" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="4771870969641451434" xil_pn:start_ts="1644985694">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985694" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1644985694">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985694" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="7318105455241838426" xil_pn:start_ts="1644985694">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985712" xil_pn:in_ck="8622757516553202150" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-3223335128120917939" xil_pn:start_ts="1644985694">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.lso"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.ngc"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.ngr"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.prj"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.stx"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.syr"/>
+      <outfile xil_pn:name="Multiplicador_4_bits.xst"/>
+      <outfile xil_pn:name="Multiplicador_4_bits_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985712" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="3805627733404597589" xil_pn:start_ts="1644985712">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644985717" xil_pn:in_ck="-186295652957079453" xil_pn:name="TRAN_postSynthesisSimModel" xil_pn:prop_ck="-3568562315600232047" xil_pn:start_ts="1644985712">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="netgen"/>
+      <outfile xil_pn:name="netgen/synthesis/Multiplicador_4_bits_synthesis.nlf"/>
+      <outfile xil_pn:name="netgen/synthesis/Multiplicador_4_bits_synthesis.v"/>
+    </transform>
+  </transforms>
+
+</generated_project>

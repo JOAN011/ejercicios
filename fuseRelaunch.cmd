@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/vener/Documents/Xilinx_Docs/TF_U10/TB_Multiplicador_4_Bits_isim_beh.exe" -prj "C:/Users/vener/Documents/Xilinx_Docs/TF_U10/TB_Multiplicador_4_Bits_beh.prj" "work.TB_Multiplicador_4_Bits" 

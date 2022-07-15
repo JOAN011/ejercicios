@@ -1,0 +1,5 @@
+vhdl work "Half_Adder.vhd"
+vhdl work "Full_Adder.vhd"
+vhdl work "Modulo2.vhd"
+vhdl work "Modulo1.vhd"
+vhdl work "Multiplicador_4_bits.vhd"

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/vener/Documents/Xilinx_Docs/TF_U10/Multiplicador_4_bits.xst" -ofn "C:/Users/vener/Documents/Xilinx_Docs/TF_U10/Multiplicador_4_bits.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim Multiplicador_4_bits.ngc Multiplicador_4_bits_synthesis.v 

@@ -1,0 +1,5 @@
+work	"Full_Adder.vhd"
+work	"Half_Adder.vhd"
+work	"Modulo1.vhd"
+work	"Modulo2.vhd"
+work	"Multiplicador_4_bits.vhd"
